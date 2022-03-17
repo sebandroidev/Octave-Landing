@@ -8,7 +8,7 @@ function Subscribe() {
 
             <div className="flex flex-col gap-4 items-center">
                 <div className="md:w-1/4">
-                    <input type="email" id="firstName" name="firstName" placeholder="Entrer votre prénom" className="bg-slate-100 border p-4 w-full rounded-md" />
+                    <input type="text" id="firstName" name="firstName" placeholder="Entrer votre prénom" className="bg-slate-100 border p-4 w-full rounded-md" />
                 </div>
 
                 <div className="md:w-1/4">
