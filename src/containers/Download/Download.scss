@@ -1,0 +1,22 @@
+.download-image {
+  display: flex;
+  align-items: center;
+  justify-items: center;
+  gap: 130px;
+
+  @media screen and (max-width: 640px) {
+    text-align: center;
+    gap: 55px;
+  }
+
+  .mockup {
+    height: 570px;
+
+    @media screen and (max-width: 640px) {
+      height: 350px;
+      width: 400px;
+      object-fit: cover;
+      object-position: top;
+    }
+  }
+}
