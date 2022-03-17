@@ -10,6 +10,9 @@ import use from "../assets/images/use.svg";
 import creditMockup from "../assets/images/credit-mockup.png";
 import forfaitMockup from "../assets/images/forfait-mockup.png";
 import check from "../assets/icons/check.svg";
+import whatsapp from "../assets/icons/whatsapp.svg";
+import github from "../assets/icons/github.svg";
+import instagram from "../assets/icons/instagram.svg";
 
 export default {
   background,
@@ -24,4 +27,7 @@ export default {
   creditMockup,
   forfaitMockup,
   check,
+  instagram,
+  whatsapp,
+  github,
 };
